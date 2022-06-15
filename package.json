@@ -1,0 +1,22 @@
+{
+  "name": "jsql",
+  "version": "1.0.0",
+  "description": "Query a mysql database with a function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VendingMashine/jsql.git"
+  },
+  "author": "Cheikh Seck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VendingMashine/jsql/issues"
+  },
+  "homepage": "https://github.com/VendingMashine/jsql#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
