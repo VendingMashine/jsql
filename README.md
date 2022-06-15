@@ -32,3 +32,9 @@ client.query("tableName", (item) => {
 client.close()
 
 ```
+
+### Subscribe to JSQL Pro
+Sponsor this repository to recieve :
+- Perform UPDATES, DELETES wtih JavaScript functions.
+- Query optimization support
+- Access to JSQL slack for on-demand support.
