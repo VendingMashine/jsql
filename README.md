@@ -1,11 +1,11 @@
-# jsql
-Use a function to query your mysql database. Ideal for people who need to access MySQL but don't understand the syntax
+# funsql
+Use a function to query your mysql database. Ideal for people who need to access MySQL but don't understand/like the syntax
 
 ## Usage
 ```
 
-const jsql = require("jsql")
-const client = new jsql()
+const funsql = require("funsql")
+const client = new funsql()
 
 // establish connection
 client.connect(
@@ -34,7 +34,11 @@ client.close()
 ```
 
 ### Subscribe to JSQL Pro
-Sponsor this repository to recieve :
+Sponsor this repository with 100 USD or more to recieve :
+- Pagination functionality.
+- Javascript to SQL syntax transformer
 - Perform UPDATES, DELETES wtih JavaScript functions.
-- Query optimization support
+- Query speed optimization.
 - Access to JSQL slack for on-demand support.
+- Support for Microsoft Server SQL, PostgreSQL and MariaDB
+
